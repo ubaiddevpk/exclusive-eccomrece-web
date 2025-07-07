@@ -11,7 +11,7 @@ import Register from "./pages/Register";
 import Checkout from "./pages/Checkout";
 import Wishlist from "./pages/Wishlist";
 import NotFound from "./pages/NotFound";
-import Account from "./pages/Account";
+import Account from "./pages/User-dashboard";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
